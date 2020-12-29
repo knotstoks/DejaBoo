@@ -13,26 +13,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-29T12:09:42.919+08:00
-  initializedAtString: 2020-12-29T04:17:29.690+08:00
+  lastUpdatedAtString: 2020-12-29T13:11:34.232+08:00
+  initializedAtString: 2020-12-29T12:16:08.719+08:00
   entries:
-  - path: Assets\Assets.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets.meta
-    projectPath: Assets\Assets.meta
+  - path: Assets\Assets\Boundary DejaBoo Prototype.asset
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Boundary
+      DejaBoo Prototype.asset
+    projectPath: Assets\Assets\Boundary DejaBoo Prototype.asset
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Assets\Floor Tile.asset
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Floor
-      Tile.asset
-    projectPath: Assets\Assets\Floor Tile.asset
+  - path: Assets\Assets\Boundary DejaBoo Prototype.asset.meta
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Boundary
+      DejaBoo Prototype.asset.meta
+    projectPath: Assets\Assets\Boundary DejaBoo Prototype.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Assets\Floor Tile.asset.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Floor
-      Tile.asset.meta
-    projectPath: Assets\Assets\Floor Tile.asset.meta
+  - path: Assets\Assets\Bullet.asset
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Bullet.asset
+    projectPath: Assets\Assets\Bullet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Bullet.asset.meta
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Assets\Bullet.asset.meta
+    projectPath: Assets\Assets\Bullet.asset.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -41,15 +47,8 @@ MonoBehaviour:
       floor plan.prefab
     projectPath: Assets\Prefabs\Prototype floor plan.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\Prototype floor plan.prefab.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Prefabs\Prototype
-      floor plan.prefab.meta
-    projectPath: Assets\Prefabs\Prototype floor plan.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Test Level.unity
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Scenes\Test
       Level.unity
@@ -61,32 +60,31 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Scripts\GhostMovement.cs
     projectPath: Assets\Scripts\GhostMovement.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\GhostMovement.cs.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Scripts\GhostMovement.cs.meta
-    projectPath: Assets\Scripts\GhostMovement.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\Floor Tile.png.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Floor
-      Tile.png.meta
-    projectPath: Assets\Sprites\Floor Tile.png.meta
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Sprites\Prototype Ghost.png
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Prototype
-      Ghost.png
-    projectPath: Assets\Sprites\Prototype Ghost.png
+  - path: Assets\Sprites\Boundary DejaBoo Prototype.gif
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Boundary
+      DejaBoo Prototype.gif
+    projectPath: Assets\Sprites\Boundary DejaBoo Prototype.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\Prototype Ghost.png.meta
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Prototype
-      Ghost.png.meta
-    projectPath: Assets\Sprites\Prototype Ghost.png.meta
+  - path: Assets\Sprites\Boundary DejaBoo Prototype.gif.meta
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Boundary
+      DejaBoo Prototype.gif.meta
+    projectPath: Assets\Sprites\Boundary DejaBoo Prototype.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Bullet.png
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Bullet.png
+    projectPath: Assets\Sprites\Bullet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Bullet.png.meta
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Assets\Sprites\Bullet.png.meta
+    projectPath: Assets\Sprites\Bullet.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -96,15 +94,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\0a\0aaa6c71fe2f792ae10b592c4ff933e7
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\0a\0aaa6c71fe2f792ae10b592c4ff933e7
+    projectPath: Library\Artifacts\0a\0aaa6c71fe2f792ae10b592c4ff933e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\0c\0c68d69664b0751afff70abc6861ed49
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\0c\0c68d69664b0751afff70abc6861ed49
     projectPath: Library\Artifacts\0c\0c68d69664b0751afff70abc6861ed49
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0f\0fe043cde084413b3cbfd04880b38d7e
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\0f\0fe043cde084413b3cbfd04880b38d7e
-    projectPath: Library\Artifacts\0f\0fe043cde084413b3cbfd04880b38d7e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\12\12cd24bc4439754e3cf701c07eda3426
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\12\12cd24bc4439754e3cf701c07eda3426
+    projectPath: Library\Artifacts\12\12cd24bc4439754e3cf701c07eda3426
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -112,23 +116,47 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\15\1500b12fed9b7e677d5e33ba91431a7f
     projectPath: Library\Artifacts\15\1500b12fed9b7e677d5e33ba91431a7f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\1e\1eb068b9123f4884d63175d8da0a332e
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\1e\1eb068b9123f4884d63175d8da0a332e
     projectPath: Library\Artifacts\1e\1eb068b9123f4884d63175d8da0a332e
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2f\2f8073ed8f6780ea9f70e30106c38b2d
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\2f\2f8073ed8f6780ea9f70e30106c38b2d
+    projectPath: Library\Artifacts\2f\2f8073ed8f6780ea9f70e30106c38b2d
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\Artifacts\32\32cdbf0e83179a4618aa552a7b79fa83
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\32\32cdbf0e83179a4618aa552a7b79fa83
+    projectPath: Library\Artifacts\32\32cdbf0e83179a4618aa552a7b79fa83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32d4c7fc984a61d68be6aee36a0f3dc9
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\32\32d4c7fc984a61d68be6aee36a0f3dc9
+    projectPath: Library\Artifacts\32\32d4c7fc984a61d68be6aee36a0f3dc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\34\341561daeba1aa0701c6ee2317f79bb8
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\34\341561daeba1aa0701c6ee2317f79bb8
     projectPath: Library\Artifacts\34\341561daeba1aa0701c6ee2317f79bb8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\36\364df0ad63e3e3b5550448aebabf098f
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\36\364df0ad63e3e3b5550448aebabf098f
     projectPath: Library\Artifacts\36\364df0ad63e3e3b5550448aebabf098f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\38\381ba1d2aa80dbbe37b43bfd5ec400d2
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\38\381ba1d2aa80dbbe37b43bfd5ec400d2
+    projectPath: Library\Artifacts\38\381ba1d2aa80dbbe37b43bfd5ec400d2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -136,23 +164,29 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\3d\3d4fc1ab1745bce90fddc083566b45d9
     projectPath: Library\Artifacts\3d\3d4fc1ab1745bce90fddc083566b45d9
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3e\3e88a2070b24df0a3c63f921578da523
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\3e\3e88a2070b24df0a3c63f921578da523
+    projectPath: Library\Artifacts\3e\3e88a2070b24df0a3c63f921578da523
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\4860fff812afe2c77edeb85b13cd90dd
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\48\4860fff812afe2c77edeb85b13cd90dd
+    projectPath: Library\Artifacts\48\4860fff812afe2c77edeb85b13cd90dd
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\50\5068de784c4dce39cee624547e9d7af9
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\50\5068de784c4dce39cee624547e9d7af9
     projectPath: Library\Artifacts\50\5068de784c4dce39cee624547e9d7af9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5e\5e33186d24ca3a4403bef6c204fea16c
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\5e\5e33186d24ca3a4403bef6c204fea16c
-    projectPath: Library\Artifacts\5e\5e33186d24ca3a4403bef6c204fea16c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\62\62ffb80aa80c5558457a3bec291e5bb5
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\62\62ffb80aa80c5558457a3bec291e5bb5
-    projectPath: Library\Artifacts\62\62ffb80aa80c5558457a3bec291e5bb5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\53\537efebe170530eb94e489858a164f55
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\53\537efebe170530eb94e489858a164f55
+    projectPath: Library\Artifacts\53\537efebe170530eb94e489858a164f55
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -160,29 +194,41 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\69\699b726c7f3b672561dfec2bae709e00
     projectPath: Library\Artifacts\69\699b726c7f3b672561dfec2bae709e00
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\71\71144c273b9efaf94f5db033b06033e0
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\71\71144c273b9efaf94f5db033b06033e0
     projectPath: Library\Artifacts\71\71144c273b9efaf94f5db033b06033e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7f\7fddcc1e816686b6e14b2aa14e692922
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\7f\7fddcc1e816686b6e14b2aa14e692922
     projectPath: Library\Artifacts\7f\7fddcc1e816686b6e14b2aa14e692922
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\86\866c0511d951938da16497d82e2559c5
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\86\866c0511d951938da16497d82e2559c5
-    projectPath: Library\Artifacts\86\866c0511d951938da16497d82e2559c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8b\8b01ca927584fa4113dea1a1333887bc
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\8b\8b01ca927584fa4113dea1a1333887bc
     projectPath: Library\Artifacts\8b\8b01ca927584fa4113dea1a1333887bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8cea4003ca49a5d7698f025bee7e4029
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\8c\8cea4003ca49a5d7698f025bee7e4029
+    projectPath: Library\Artifacts\8c\8cea4003ca49a5d7698f025bee7e4029
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9c\9c1374e11746d989d62315c420bbe520
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\9c\9c1374e11746d989d62315c420bbe520
+    projectPath: Library\Artifacts\9c\9c1374e11746d989d62315c420bbe520
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9cb72ea32032bbb22f572cf4215cc495
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\9c\9cb72ea32032bbb22f572cf4215cc495
+    projectPath: Library\Artifacts\9c\9cb72ea32032bbb22f572cf4215cc495
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -190,29 +236,29 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\a0\a006fd5b1d4329f5f0587f0f0134451b
     projectPath: Library\Artifacts\a0\a006fd5b1d4329f5f0587f0f0134451b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a4\a49fae94f1944f4300f28fd7fdb01b20
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\a4\a49fae94f1944f4300f28fd7fdb01b20
     projectPath: Library\Artifacts\a4\a49fae94f1944f4300f28fd7fdb01b20
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\a6\a6ad25a3e808f20cb39cc9ce23aa8231
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\a6\a6ad25a3e808f20cb39cc9ce23aa8231
     projectPath: Library\Artifacts\a6\a6ad25a3e808f20cb39cc9ce23aa8231
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\aa\aa7d5e3994a7417f54c30950fa37a106
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\aa\aa7d5e3994a7417f54c30950fa37a106
     projectPath: Library\Artifacts\aa\aa7d5e3994a7417f54c30950fa37a106
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ad\ad3ea2e409fb6cfac22bfdf1939d9ef9
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\ad\ad3ea2e409fb6cfac22bfdf1939d9ef9
-    projectPath: Library\Artifacts\ad\ad3ea2e409fb6cfac22bfdf1939d9ef9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b2\b2ca77d50ef527b054e9c379f461d87c
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\b2\b2ca77d50ef527b054e9c379f461d87c
+    projectPath: Library\Artifacts\b2\b2ca77d50ef527b054e9c379f461d87c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -220,23 +266,29 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\b5\b5f7aa88b7ce4787030235faf6e6af05
     projectPath: Library\Artifacts\b5\b5f7aa88b7ce4787030235faf6e6af05
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bb\bb90c22c73b5e7b9b68a7de8b8afa77a
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\bb\bb90c22c73b5e7b9b68a7de8b8afa77a
+    projectPath: Library\Artifacts\bb\bb90c22c73b5e7b9b68a7de8b8afa77a
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\c2\c29b76c6cc94d69638a155e3ec334d73
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\c2\c29b76c6cc94d69638a155e3ec334d73
     projectPath: Library\Artifacts\c2\c29b76c6cc94d69638a155e3ec334d73
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d7\d7b156555bf0da25b3f08c27af71a9f4
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\d7\d7b156555bf0da25b3f08c27af71a9f4
-    projectPath: Library\Artifacts\d7\d7b156555bf0da25b3f08c27af71a9f4
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\dc\dc53eb151a9e638f682892df0e6870e4
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\dc\dc53eb151a9e638f682892df0e6870e4
+    projectPath: Library\Artifacts\dc\dc53eb151a9e638f682892df0e6870e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d8\d885be6a3f333f2d5ff16be8b0242404
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\d8\d885be6a3f333f2d5ff16be8b0242404
-    projectPath: Library\Artifacts\d8\d885be6a3f333f2d5ff16be8b0242404
+  - path: Library\Artifacts\e0\e0d2c0a96ad63311a1e14a8eca46ec9b
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\e0\e0d2c0a96ad63311a1e14a8eca46ec9b
+    projectPath: Library\Artifacts\e0\e0d2c0a96ad63311a1e14a8eca46ec9b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -244,17 +296,29 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\e4\e4311eb2ba5143aa86908db3cbe9049d
     projectPath: Library\Artifacts\e4\e4311eb2ba5143aa86908db3cbe9049d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e5\e598cae56ebbdbc7353baa45d8c5aabf
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\e5\e598cae56ebbdbc7353baa45d8c5aabf
     projectPath: Library\Artifacts\e5\e598cae56ebbdbc7353baa45d8c5aabf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f2\f2ff273749eb7d7e21e91794c490e6e4
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\f2\f2ff273749eb7d7e21e91794c490e6e4
     projectPath: Library\Artifacts\f2\f2ff273749eb7d7e21e91794c490e6e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f7\f767dc94af558b749d592d5309cf6a6a
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\f7\f767dc94af558b749d592d5309cf6a6a
+    projectPath: Library\Artifacts\f7\f767dc94af558b749d592d5309cf6a6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f76fbcd2f23ce81426edbd5e46a00430
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\Artifacts\f7\f76fbcd2f23ce81426edbd5e46a00430
+    projectPath: Library\Artifacts\f7\f76fbcd2f23ce81426edbd5e46a00430
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -267,12 +331,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -310,26 +368,14 @@ MonoBehaviour:
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
-    projectPath: Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
-    projectPath: Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -384,93 +430,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0b58a47f87440bd42babc6f434e7f2fc
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-0b58a47f87440bd42babc6f434e7f2fc
-    projectPath: Temp\UnityTempFile-0b58a47f87440bd42babc6f434e7f2fc
+  - path: Temp\UnityTempFile-3e3f927e966a16d46b62621c29c3b0d4
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-3e3f927e966a16d46b62621c29c3b0d4
+    projectPath: Temp\UnityTempFile-3e3f927e966a16d46b62621c29c3b0d4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1ca403622a5081742900e1e96b63d779
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-1ca403622a5081742900e1e96b63d779
-    projectPath: Temp\UnityTempFile-1ca403622a5081742900e1e96b63d779
+  - path: Temp\UnityTempFile-7e3e2aebe62ef9745bf6c22703ad8b63
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-7e3e2aebe62ef9745bf6c22703ad8b63
+    projectPath: Temp\UnityTempFile-7e3e2aebe62ef9745bf6c22703ad8b63
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-306d0c6fd7770144fa5430fa24fc148e
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-306d0c6fd7770144fa5430fa24fc148e
-    projectPath: Temp\UnityTempFile-306d0c6fd7770144fa5430fa24fc148e
+  - path: Temp\UnityTempFile-cabbce0780dbcec4e8a3e6af27ecaed3
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-cabbce0780dbcec4e8a3e6af27ecaed3
+    projectPath: Temp\UnityTempFile-cabbce0780dbcec4e8a3e6af27ecaed3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3d9564a50aab1fe478761f1fec5195fd
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-3d9564a50aab1fe478761f1fec5195fd
-    projectPath: Temp\UnityTempFile-3d9564a50aab1fe478761f1fec5195fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3dfa076fdb710a44697b25add8401a91
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-3dfa076fdb710a44697b25add8401a91
-    projectPath: Temp\UnityTempFile-3dfa076fdb710a44697b25add8401a91
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3ec809672d53c4b498264859584f306c
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-3ec809672d53c4b498264859584f306c
-    projectPath: Temp\UnityTempFile-3ec809672d53c4b498264859584f306c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4a67835b3850f9c47a298b4dc28faa4f
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-4a67835b3850f9c47a298b4dc28faa4f
-    projectPath: Temp\UnityTempFile-4a67835b3850f9c47a298b4dc28faa4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5a197c55e672f3d469ed596448a4dedb
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-5a197c55e672f3d469ed596448a4dedb
-    projectPath: Temp\UnityTempFile-5a197c55e672f3d469ed596448a4dedb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6190f751f61b0f84dbb500a25980ac97
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-6190f751f61b0f84dbb500a25980ac97
-    projectPath: Temp\UnityTempFile-6190f751f61b0f84dbb500a25980ac97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8f00e57c24c5e8246bda8b8a4207bf92
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-8f00e57c24c5e8246bda8b8a4207bf92
-    projectPath: Temp\UnityTempFile-8f00e57c24c5e8246bda8b8a4207bf92
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-94a59f6473845fd42845d8f950c52a33
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-94a59f6473845fd42845d8f950c52a33
-    projectPath: Temp\UnityTempFile-94a59f6473845fd42845d8f950c52a33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-db25cdad678fbec4787871de62b82825
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-db25cdad678fbec4787871de62b82825
-    projectPath: Temp\UnityTempFile-db25cdad678fbec4787871de62b82825
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e8ff5d391c787a64bb9a08ff0f86d789
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-e8ff5d391c787a64bb9a08ff0f86d789
-    projectPath: Temp\UnityTempFile-e8ff5d391c787a64bb9a08ff0f86d789
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-eaa4a0d364a0fe647abfcb3f00392729
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-eaa4a0d364a0fe647abfcb3f00392729
-    projectPath: Temp\UnityTempFile-eaa4a0d364a0fe647abfcb3f00392729
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f92b96a96af92104596eccb7ecc64ce5
-    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-f92b96a96af92104596eccb7ecc64ce5
-    projectPath: Temp\UnityTempFile-f92b96a96af92104596eccb7ecc64ce5
+  - path: Temp\UnityTempFile-eb01dc3a23534fd47945790923a6a383
+    fullPath: C:\Users\knots\OneDrive\Documents\GitHub\DejaBoo\Temp\UnityTempFile-eb01dc3a23534fd47945790923a6a383
+    projectPath: Temp\UnityTempFile-eb01dc3a23534fd47945790923a6a383
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
