@@ -4,3 +4,4 @@ Temp/*
 Library/*
 Library/gfu/cache/*
 *.yaml
+Library/gfu/cache/branches.yaml
