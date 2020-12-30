@@ -1,18 +1,4 @@
 
 *.meta
 Temp/*
-Library/*
-Library/gfu/cache/*
 *.yaml
-Library/gfu/cache/branches.yaml
-Library/EditorSnapSettings.asset
-Library/EditorUserBuildSettings.asset
-Library/gfu/cache/branches.yaml
-Library/gfu/cache/gitlocks.yaml
-Library/gfu/cache/gitlog.yaml
-Library/gfu/cache/gitstatusentries.yaml
-Library/gfu/cache/gittrackingstatus.yaml
-Library/gfu/cache/gituser.yaml
-Library/gfu/cache/repoinfo.yaml
-Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-Library/LastSceneManagerSetup.txt
