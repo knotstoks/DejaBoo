@@ -2,4 +2,5 @@
 *.meta
 Temp/*
 Library/*
+Library/gfu/cache/*
 *.yaml
