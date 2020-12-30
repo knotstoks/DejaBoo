@@ -5,3 +5,19 @@ Library/*
 Library/gfu/cache/*
 *.yaml
 Library/gfu/cache/branches.yaml
+Assets/Prefabs/Prototype floor plan.prefab
+Library/ArtifactDB
+Library/CurrentLayout-default.dwlt
+Library/EditorSnapSettings.asset
+Library/EditorUserBuildSettings.asset
+Library/gfu/cache/branches.yaml
+Library/gfu/cache/gitlocks.yaml
+Library/gfu/cache/gitlog.yaml
+Library/gfu/cache/gitstatusentries.yaml
+Library/gfu/cache/gittrackingstatus.yaml
+Library/gfu/cache/gituser.yaml
+Library/gfu/cache/repoinfo.yaml
+Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+Library/LastSceneManagerSetup.txt
+Library/SceneVisibilityState.asset
+Library/SourceAssetDB

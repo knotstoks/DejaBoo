@@ -13,9 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-12-30T10:44:10.246+08:00
-  initializedAtString: 2020-12-30T10:42:44.571+08:00
+  lastUpdatedAtString: 2020-12-30T10:53:35.570+08:00
+  initializedAtString: 2020-12-30T10:51:11.281+08:00
   log:
+  - commitID: 8ec4539a1271e3427b40b85ef1d27c80c5bff496
+    mergeA: 
+    mergeB: 
+    authorName: Yukun99
+    authorEmail: yukunxu123@gmail.com
+    commitEmail: yukunxu123@gmail.com
+    commitName: Yukun99
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-12-30T10:44:32.000+08:00
+    commitTimeString: 2020-12-30T10:44:32.000+08:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\coding\Unity\DejaBoo\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\coding\Unity\DejaBoo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\coding\Unity\DejaBoo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 48b35fbc5daca6427a3f83bdca3553d43d44817c
     mergeA: 
     mergeB: 
