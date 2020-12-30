@@ -27,5 +27,12 @@ public class GhostMovement : MonoBehaviour {
                 }
             }
         }
+
+        if (Input.GetAxisRaw("Horizontal") < 0f) {
+            transform.eulerAngles = new Vector3(0, 0, 0);
+        }
+        if (Input.GetAxisRaw("Horizontal") > 0f) {
+            transform.eulerAngles = new Vector3(0, 180, 0);
+        }
     }
 }
